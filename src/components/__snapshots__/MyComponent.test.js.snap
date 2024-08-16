@@ -1,7 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`MyComponent should render correctly 1`] = `ShallowWrapper {}`;
+
 exports[`MyComponent should render initial layout 1`] = `
-Array [
+[
   <div>
     <input
       onChange={[Function]}
